@@ -1,0 +1,1 @@
+enum SelectModeAddStockTransfer {product }

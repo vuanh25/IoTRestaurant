@@ -1,0 +1,11 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+<svg fill="#000000" width="800px" height="800px" viewBox="0 0 24 24" id="shipping-left" data-name="Flat Line" xmlns="http://www.w3.org/2000/svg" class="icon flat-line">
+<g id="SVGRepo_bgCarrier" stroke-width="0"/>
+<g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="SVGRepo_iconCarrier">
+<path id="secondary" d="M20,5H16v6H12V5H8A1,1,0,0,0,7,6V18a1,1,0,0,0,1,1H20a1,1,0,0,0,1-1V6A1,1,0,0,0,20,5Z" style="fill: #cc6901; stroke-width: 2;"/>
+<path id="primary" d="M9,5H20a1,1,0,0,1,1,1V18a1,1,0,0,1-1,1H8a1,1,0,0,1-1-1V17" style="fill: none; stroke: #cc6901; stroke-linecap: round; stroke-linejoin: round; stroke-width: 2;"/>
+<path id="primary-2" data-name="primary" d="M12,5h4v6H12ZM3,9H7m1,4H3" style="fill: none; stroke: #cc6901; stroke-linecap: round; stroke-linejoin: round; stroke-width: 2;"/>
+</g>
+</svg>

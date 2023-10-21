@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "435409312739",
+    "project_id": "di4lvn-pos",
+    "storage_bucket": "di4lvn-pos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435409312739:android:a76fe37ef9776e5ced9ed6",
+        "android_client_info": {
+          "package_name": "vn.di4l.di4l_pos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435409312739-puknm80tbd05l9n080o723e05v15of8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.di4l.di4l_pos",
+            "certificate_hash": "bbd98a97d3560ffab4e309152445ec0c839155a1"
+          }
+        },
+        {
+          "client_id": "435409312739-hua4q1ldkbp4338jan89um61rn1tj2en.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqRyVHXxQAWqU0T6T420dF7hX8njeaSI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435409312739-hua4q1ldkbp4338jan89um61rn1tj2en.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

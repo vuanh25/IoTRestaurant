@@ -1,0 +1,1 @@
+enum TypeCustomer { individual, business }
